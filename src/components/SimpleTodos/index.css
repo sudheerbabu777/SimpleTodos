@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container {
+  border-radius: 12px;
+  background-color: #ffffff;
+  padding-left: 44px;
+  padding-right: 44px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  width: 80%;
+  max-width: 1180px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 44px;
+  font-weight: 700;
+  color: #ff8542;
+  text-align: center;
+}
